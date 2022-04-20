@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+.flexbox-container {
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 10px;
+    border: 10px solid white;    
+}
+
+.sandybrown{
+    background-color: sandybrown;
+}
+
+.salmon{
+    background-color: salmon;
+}
+.coral{
+    background-color: coral;
+}
+img{
+    height: 200px;
+}
